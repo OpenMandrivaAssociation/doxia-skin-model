@@ -1,1 +1,3 @@
-doxia-skin-model-2.0.0-sources.jar
+*.jar
+*.tar.gz
+*.tar.bz2
